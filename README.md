@@ -1,4 +1,10 @@
 ### Hello,I'm Davi Figueiredo, BackEnd software developer!!
+
+- Working with Python, Django, SQL in general
+- I know several libs and paradigms in different programming languages
+- Knowledge with raspberry py and its libs
+- Diverse projects in different areas of technology
+
 Email: devdeoliveira06@gmail.com
 <div style="display: inline_block"><br>
   
