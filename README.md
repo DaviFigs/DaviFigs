@@ -2,7 +2,7 @@
 
 - Working with Python, Django, SQL in general
 - I know several libs and paradigms in different programming languages
-- Knowledge with raspberry py and its libs
+- Knowledge with RaspberryPy and their libs
 - Diverse projects in different areas of technology
 
 Email: devdeoliveira06@gmail.com
