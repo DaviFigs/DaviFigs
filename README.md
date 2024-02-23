@@ -4,6 +4,7 @@
 - Agile API development
 - Agile development, Algorithms and clean code
 - Currently learning RustLang 🦀
+- Linux User
 - Diverse projects in different areas of technology
 
 Email: devdeoliveira06@gmail.com
@@ -16,7 +17,10 @@ Email: devdeoliveira06@gmail.com
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />         
   <img align="center" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" height="75" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+
+  <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  
   <img align="center" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"/>
   
 
