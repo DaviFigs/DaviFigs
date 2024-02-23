@@ -1,8 +1,8 @@
 ### Hello,I'm Davi Figueiredo, BackEnd software developer!!
 
-- Working with Python, Django, SQL in general
-- I know several libs and paradigms in different programming languages
-- Knowledge with RaspberryPy and their libs
+- main_stack = [Python, Django, FastAPI]
+- Agile development, Algorithms and clean code
+- Currently learning RustLang 🦀
 - Diverse projects in different areas of technology
 
 Email: devdeoliveira06@gmail.com
