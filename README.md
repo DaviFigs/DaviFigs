@@ -1,6 +1,7 @@
 ### Hello,I'm Davi Figueiredo, BackEnd software developer!!
 
 - main_stack = [Python, Django, FastAPI]
+- Agile API development
 - Agile development, Algorithms and clean code
 - Currently learning RustLang 🦀
 - Diverse projects in different areas of technology
