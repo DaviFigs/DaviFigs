@@ -1,4 +1,5 @@
 
-Email: devdeoliveira06@gmail.com
+Email: davi.oli.figueiredo@gmail.com
+
 GitLab: https://gitlab.com/DaviFigueiredo
 
